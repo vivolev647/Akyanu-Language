@@ -1,5 +1,7 @@
 # Akyanu-Language
 
+Akyanu is the language of Akya, a land slightly north of Nekotei (which in this timeline is Japan, Akya is in the region of Hokkaido), with rich history and culture, despite only being around 200 years old. It is a great language spoken by around 1000 people to date, only 900 of which are residents of Akyal̦ this is because it is a very small place, and only around 953 people live there.
+
 ## Particles:
 
 - Topic Particle: "Ta"
@@ -18,10 +20,6 @@ conveys a verb is occuring in the past tense (i.e. "kiyomi ta vyamo")
 conveys a verb is occuring in the future tense (i.e. "kiyomi ta vyaki")
 - Population Particle: "Nu"
 conveys that an object (noun) belongs to a place (i.e. "akyanu")
-
-## Lore
-
-Akyanu is the language of Akya, a land slightly north of Nekotei (which in this timeline is Japan, Akya is in the region of Hokkaido), with rich history and culture, despite only being around 200 years old. It is a great language spoken by around 1000 people to date, only 900 of which are residents of Akyal̦ this is because it is a very small place, and only around 953 people live there.
 
 ## Verbs
 
@@ -113,6 +111,16 @@ Nouns in Akyanu are as follows:
 - "Kyoushi" - "Teacher"
 - "Irya" - "Irya", the capital of Akya
 - "Akya" - "Akya", the country in which Akyanu is spoken
+- "Rai" - "Home"
+- "Kurai" - "Darkness"
+- "Hikari" - "Light"
+- "Neko" - "Cat"
+- "Inu" - "Dog"
+- "Takara" - "Treasure"
+- "Umi" - "Sea"
+- "Yama" - "Mountain"
+- "Tori" - "Bird"
+- "Machi" - "Town"
 
 ## Conjunctions
 
@@ -126,6 +134,29 @@ Here are the conjunctions in Akyanu:
 ## Formality
 
 To make a word formal, such as an interjection or polite particle, use "mashi" at the end, similarly to how "gozaimasu" works in Japanese.
+
+## Adjectives
+
+- reya (bright)
+- hani (warm)
+- fuhe (delicious)
+- saho (calm)
+- ruka (strong)
+- yume (dreamy)
+- kano (clever)
+- mihe (gentle)
+- teyo (playful)
+- sama (peaceful)
+- miso (sweet)
+- haro (vibrant)
+- tari (sharp)
+- fuhi (happy)
+- sari (quick)
+- yanu (wise)
+- hoku (cold)
+- rinu (smooth)
+- yato (patient)
+- kusu (soft)
 
 ## Alphabet
 
