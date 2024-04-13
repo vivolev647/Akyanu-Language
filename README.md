@@ -131,40 +131,40 @@ To make a word formal, such as an interjection or polite particle, use "mashi" a
 
 Here is the akyanu alphabet:
 
-- a: Represents the sound /a/ as in "__a__pple".
-- e: Represents the sound /e/ as in "b__e__d".
-- i: Represents the sound /i/ as in "s__ee__".
-- u: Represents the sound /u/ as in "f__oo__d".
-- y: Represents the sound /j/ as in "__y__es".
-- n: Represents the sound /n/ as in "__n__o".
-- o: Represents the sound /ɔ/ as in "th__ou__ght".
-- k: Represents the sound /k/ as in "__c__at".
-- ya: Represents the sound /ja/ as in "__ya__p".
-- yu: Represents the sound /ju/ as in "__you__th".
-- yo: Represents the sound /jo/ as in "__yo__gurt".
-- ri: Represents the sound /ɾi/ as in "d__rea__my".
-- ha: Represents the sound /ha/ as in "__ha__ha".
-- he: Represents the sound /he/ as in "__he__y".
-- hi: Represents the sound /hi/ as in "heat".
-- fu: Represents the sound /fu/ as in "__foo__d".
-- ho: Represents the sound /ho/ as in "__ho__pe".
-- ma: Represents the sound /ma/ as in "__ma__ma".
-- me: Represents the sound /me/ as in "__me__t".
+- a: Represents the sound /a/ as in "__a__ pple".
+- e: Represents the sound /e/ as in "b __e__ d".
+- i: Represents the sound /i/ as in "s __ee__".
+- u: Represents the sound /u/ as in "f __oo__ d".
+- y: Represents the sound /j/ as in "__y__ es".
+- n: Represents the sound /n/ as in "__n__ o".
+- o: Represents the sound /ɔ/ as in "th __ou__ ght".
+- k: Represents the sound /k/ as in "__c__ at".
+- ya: Represents the sound /ja/ as in "__ya__ p".
+- yu: Represents the sound /ju/ as in "__you__ th".
+- yo: Represents the sound /jo/ as in "__yo__ gurt".
+- ri: Represents the sound /ɾi/ as in "d __rea__ my".
+- ha: Represents the sound /ha/ as in "__ha__ ha".
+- he: Represents the sound /he/ as in "__he__ y".
+- hi: Represents the sound /hi/ as in "__hea__ t".
+- fu: Represents the sound /fu/ as in "__foo__ d".
+- ho: Represents the sound /ho/ as in "__ho__ pe".
+- ma: Represents the sound /ma/ as in "__ma__ ma".
+- me: Represents the sound /me/ as in "__me__ t".
 - mi: Represents the sound /mi/ as in "__me__".
-- mo: Represents the sound /mo/ as in "__mo__re".
-- mu: Represents the sound /mu/ as in "__moo__d".
-- ra: Represents the sound /ɾa/ as in "__ra__m".
-- re: Represents the sound /ɾe/ as in "__re__d".
-- ru: Represents the sound /ɾu/ as in "__ru__by".
-- ro: Represents the sound /ɾo/ as in "__ro__ad".
-- sa: Represents the sound /sa/ as in "__sa__t".
-- se: Represents the sound /se/ as in "__se__t".
+- mo: Represents the sound /mo/ as in "__mo__ re".
+- mu: Represents the sound /mu/ as in "__moo__ d".
+- ra: Represents the sound /ɾa/ as in "__ra__ m".
+- re: Represents the sound /ɾe/ as in "__re__ d".
+- ru: Represents the sound /ɾu/ as in "__ru__ by".
+- ro: Represents the sound /ɾo/ as in "__ro__ ad".
+- sa: Represents the sound /sa/ as in "__sa__ t".
+- se: Represents the sound /se/ as in "__se__ t".
 - si: Represents the sound /si/ as in "__see__".
 - so: Represents the sound /so/ as in "__so__".
-- tsu: Represents the sound /tsu:/ as in "__tsu__nami".
-- ta: Represents the sound /ta/ as in "__ta__p".
-- te: Represents the sound /te/ as in "__ta__le".
-- to: Represents the sound /to/ as in "__to__e".
+- tsu: Represents the sound /tsu:/ as in "__tsu__ nami".
+- ta: Represents the sound /ta/ as in "__ta__ p".
+- te: Represents the sound /te/ as in "__ta__ le".
+- to: Represents the sound /to/ as in "__to__ e".
 - nu: Represents the sound /nu/ as in "__new"__.
-- ne: Represents the sound /ne/ as in "__ne__t".
+- ne: Represents the sound /ne/ as in "__ne__ t".
 - no: Represents the sound /no/ as in "__no__".
