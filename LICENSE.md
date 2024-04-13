@@ -1,3 +1,5 @@
+Copyright 2024 vivolev647
+
 MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
