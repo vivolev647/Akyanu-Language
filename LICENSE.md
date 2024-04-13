@@ -4,7 +4,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this language and associated documentation files (the "language"), to deal
 in the language without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Conlang, and to permit persons to whom the language is
+copies of the language, and to permit persons to whom the language is
 furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in
@@ -15,5 +15,5 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE CONLANG OR THE USE OR OTHER DEALINGS IN
-THE CONLANG.
+OUT OF OR IN CONNECTION WITH THE LANGUAGE OR THE USE OR OTHER DEALINGS IN
+THE LANGUAGE.
