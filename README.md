@@ -99,8 +99,8 @@ Unlike in Japanese, honorifics are shown with ~ instead of -, then the suffix. H
 Here is a list of pronouns in Akyanu:
 
 - Ayu - I, me (first person singular)
-- Ka - you (singular, informal)
+- Ka - you (second person singular)
 - Tane - he, him / she, her / they, them (third person singular)
 - Tyo - we, us (first person plural)
-- kara - you (plural, formal)
+- kara - you (second person plural)
 - taneo - they, them (third person plural)
