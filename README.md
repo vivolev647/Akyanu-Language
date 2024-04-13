@@ -2,7 +2,21 @@
 
 Akyanu is the language of Akya, a land slightly north of Nekotei (which in this timeline is Japan, Akya is in the region of Hokkaido), with rich history and culture, despite only being around 200 years old. It is a great language spoken by around 1000 people to date, only 900 of which are residents of Akyal̦ this is because it is a very small place, and only around 953 people live there.
 
-## Particles:
+## Greetings
+
+- Himure: "Good morning"
+- Mana: "Hello"
+- Onki: "Good evening"
+- Ateru: "Good afternoon"
+- Ja'ane: "See you again"
+- Sayonara: "Goodbye"
+
+## Polite markers
+
+- Kudasai: "Please"
+- Arigatou: "Thank you"
+
+## Particles
 
 - Topic Particle: "Ta"
 conveys the topic of the sentence (i.e. "kiyomi ta vya.")
