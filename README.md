@@ -70,16 +70,16 @@ Here is how to use tenses in Akyanu:
 
 
 ### Past:
-- "Kiyomi~mya ta Takeshi~ryu suropumo"
+- "Kiyomi\~mya ta Takeshi\~ryu suropumo"
 - "Kiyomi helped Takeshi"
 ### Present (1):
-- "Kiyomi~mya ta Takeshi~ryu suropune"
+- "Kiyomi\~mya ta Takeshi\~ryu suropune"
 - "Kiyomi is helping Takeshi"
 ### Present (2):
-- "Kiyomi~mya ta Takeshi~ryu suropu"
+- "Kiyomi\~mya ta Takeshi\~ryu suropu"
 - "Kiyomi is helping Takeshi"
 ### Future:
-- "Kiyomi~mya ta Takeshi~ryu suporuki"
+- "Kiyomi\~mya ta Takeshi\~ryu suporuki"
 - "Kiyomi will help Takeshi"
 
 ## Honorifics
