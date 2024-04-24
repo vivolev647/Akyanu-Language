@@ -43,7 +43,8 @@ conveys that an object (noun) belongs to a place (i.e. "akyanu")
 - Mori: To love
 - Ayu: To have
 - Tachi: To stand
-- Ike: To go
+- Vya: To go
+- Ike: To be in
 - Kiku: To listen
 
 ## Family names
