@@ -39,7 +39,7 @@ conveys that an object (noun) belongs to a place (i.e. "akyanu")
 - Aru: To be
 - Suropu: To help
 - Hata: To learn
-- Iru: To exist
+- Iru: To live
 - Mori: To scare
 - Ayu: To have
 - Tachi: To stand
