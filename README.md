@@ -1,7 +1,5 @@
 # Akyanu-Language
 
-Akyanu is the language of Akya, a land slightly north of Nekotei (which in this timeline is Japan, Akya is in the region of Hokkaido), with rich history and culture, despite only being around 200 years old. It is a great language spoken by around 1000 people to date, only 900 of which are residents of Akyal̦ this is because it is a very small place, and only around 953 people live there.
-
 ## Greetings
 
 - Himure: "Good morning"
