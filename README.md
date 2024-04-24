@@ -40,7 +40,7 @@ conveys that an object (noun) belongs to a place (i.e. "akyanu")
 - Suropu: To help
 - Hata: To learn
 - Iru: To live
-- Mori: To scare
+- Mori: To love
 - Ayu: To have
 - Tachi: To stand
 - Ike: To go
